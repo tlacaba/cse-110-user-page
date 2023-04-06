@@ -1,5 +1,3 @@
-theme: minima
-
 # Tim's User Page
 
 _Final notes [here](#final-notes)_
