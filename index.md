@@ -1,5 +1,7 @@
 # Tim's User Page
 
+_Final notes [here](#final-notes)_
+
 Hello, my name is Tim Allen Hermosisima Lacaba.
 
 I am a Computer Science major at UCSD, and an aspiring Software Engineer.
