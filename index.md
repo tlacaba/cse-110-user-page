@@ -1,6 +1,6 @@
 # Tim's User Page
 
-_Final notes [here](#final-notes)_
+_Section link to Final notes [here](#final-notes)_
 
 Hello, my name is Tim Allen Hermosisima Lacaba.
 
@@ -27,7 +27,7 @@ My hobbies consist of:
 
 ## Lessons Learned in CSE 110
 
-An interesting lesson that I have already learned in my CSE 110 course was that there is a large distinction between software _development_ and software _engineering_. An [article](https://www.mtu.edu/cs/undergraduate/software/what/) posted by Michigan State states:
+An interesting lesson that I have already learned in my CSE 110 course was that there is a large distinction between software _development_ and software _engineering_. An [article (external link)](https://www.mtu.edu/cs/undergraduate/software/what/) posted by Michigan State states:
 
 > **Software engineering** is the branch of computer science that deals with the **design, development, testing, and maintenance of software applications**. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.
 
